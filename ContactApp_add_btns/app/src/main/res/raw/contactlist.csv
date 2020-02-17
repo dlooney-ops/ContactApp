@@ -1,0 +1,8 @@
+Type (Personal/Business),Number,Name,Phone,LocId,Address,City,State,PhotoId,PhotoFile,TakenAt,Info,HourStart/Birthday,HourEnd/Info,Website
+P,1,John Smith,724-932-1976,loc1,123 Main St,Paris,TX,ph1,john.png,2019-08-20T11:13:00.000z,,19640929,Likes cake,
+B,2,Rogers Deli,650-965-2204,loc2,210 E Middlefield Rd,Mountain View,CA,ph2,rogers.png,2019-01-03T15:04:00.000z,,300,1400,www.rogers.deli
+P,3,Jesus Ruiz,650-924-3767,loc3,240 RT Jones Rd,Mountain View,CA,ph3,ruiz.png,2019-08-21T12:13:00.000z,,19900303,Enthusiastic,
+P,4,Austin Carter,904-765-3962,loc4,5058 San Juan Ave,Jacksoville,FL,ph4,carter.png,1988-03-04T09:37:00.000z,,19841123,Long mustache,
+B,5,J Donut,940-497-2141,loc5,104 E Hundley Dr,Lake Dallas,TX,ph5,j_donut.png,2000-01-01T12:00:03.000z,,600,1200,www.jdo.nut
+B,6,Clocktower Coffee,650-210-8032,loc6,205 E Middlefield Rd,Mountain View,CA,ph6,ccoffee.png,2019-08-20T11:13:00.000z,,600,1800,www.clocktower.com
+P,7,Matthew Lee,214-910-1293,loc7,350 Tramble St,Carrollton,TX,ph7,mlee.png,2010-12-25T17:25:10.000z,,20190710,Nothing new,
